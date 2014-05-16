@@ -41,7 +41,7 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
 ##VI. Gesamt-Wertung
 1. Die Ergebnisse der Team-Events bzw. Rennwochen in Form der Challenge-Wertung fließen in die Gesamtwertung ein.
 2. Die Gesamtwertung ist untergliedert in mehrere Rankings:
-    1. **Ewige-Tabelle**<br>Die **Punktzahlen aller Challenge-Wertungen** inkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
+    1. **Ewige-Tabelle**<br>Die **Punktzahlen aller Challenge-Wertungen** inkl. Bonus-/Strafpunkte werden je Teilnehmer addiert. Bei Punktgleichheit führt der Spieler, der ohne Berücksichtigung von Bonus-/Strafpunkten mehr Punkte hat.
     2. **Best-of-3**<br>Die **Punktzahlen der letzten 3 Challenge-Wertungen** exkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
 3. Die Rankings werden von Julian gepflegt und hier auf github veröffentlicht:
     1. **[Ewige-Tabelle](Ranking-1.md)**
