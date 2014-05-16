@@ -6,7 +6,7 @@
 ##II. Grundlegendes
 1. Der Spaßt steht im Vordergrund!
 2. Der Zeitaufwand während der Arbeitszeit ist auf einen ange-messenen Zeitrahmen zu begrenzen.
-3. Fertigungs- und Material-Kosten sind so gering wie möglich zu halten (siehe auch [Anhang A](https://github.com/ultimate/F-OR1/edit/master/Reglement - Anhang A.md)).
+3. Fertigungs- und Material-Kosten sind so gering wie möglich zu halten (siehe auch [Anhang A](Reglement - Anhang A.md)).
 4. In diesem Repository werden alle allgemeingültigen Information gesammelt und veröffentlicht. Dazu gehören z. B. das Reglement, Rennergebnisse, Datenblätter, etc.
 
 ##III. Durchführung
@@ -14,10 +14,10 @@
 2. Die Challenges werden als **Team-Events an einem Freitag nach der Arbeit im "Labor"** oder an einem anderen verabredeten Ort ausgetragen.
 3. Längeren Challenges können alternativ auch als Rennwoche durchgeführt werden. In diesem Fall hat innerhalb der festgelegten Rennwoche jeder Teilnehmer die Möglichkeit die Challenge beliebig oft zu absolvieren um eine Wertung zu erlangen. Absolvieren der Challenge, sowie die Wertung muss dabei von mind. einem anderen Teilnehmer beo-bachtet und bestätigt werden.
 4. Sofern es die Art der Challenge zulässt ist bei Urlaub oder Krankheit ein Ausweichtermin für das Erlangen der Wertung auch außerhalb des Team-Events oder der Rennwoche für den betroffenen Teilnehmer möglich. Die Festlegung des Ersatz-Termins erfolgt in Absprache mit dem F-OR1-Komitee. Der Ersatztermin ist möglichst zeitnah zum eigentlichen Termin der Challenge anzusetzen. Nach Möglichkeit sind Urlaube jedoch schon bei der Festlegung des Challenge-Termins zu berücksichtigen.
-5. Der Teilnehmer, der bei der aktuellen Challenge am **schlechtesten** abschneidet, legt die Aufgabe/den Inhalt der nächsten Challenge und damit auch die Ausführungsvariante der Challenge fest. Sollte ein Teilnehmer zweimal in Folge die Wahl der nächsten Aufgabe zugesprochen bekommen, so fällt die Festlegung der Aufgabe/des Inhalts der nächsten Challenge auf den nächstbesseren Teilnehmer.<br/>Vorschläge für mögliche Challenges können [Anhang B](https://github.com/ultimate/F-OR1/edit/master/Reglement - Anhang B.md) entnommen werden.
+5. Der Teilnehmer, der bei der aktuellen Challenge am **schlechtesten** abschneidet, legt die Aufgabe/den Inhalt der nächsten Challenge und damit auch die Ausführungsvariante der Challenge fest. Sollte ein Teilnehmer zweimal in Folge die Wahl der nächsten Aufgabe zugesprochen bekommen, so fällt die Festlegung der Aufgabe/des Inhalts der nächsten Challenge auf den nächstbesseren Teilnehmer.<br/>Vorschläge für mögliche Challenges können [Anhang B](Reglement - Anhang B.md) entnommen werden.
 6. Testfahrten können auch jederzeit auch außerhalb des Team-Events bzw. der Rennwoche beliebig oft durchgeführt werden, werden jedoch nicht in die Wertung genommen.
 7. Die Festlegung des Termins und der Art der nächsten Challenge hat möglichst zeitnah nach Abschluss der aktuellen Challenge zu erfolgen und ist jedoch **mind. 14 Tage im Voraus** anzukündigen.
-8. Für jede Challenge ist ein **eindeutiges, messbares Wertungskriterium** festzulegen, welches zusammen mit der Festlegung der Art der Challenge bekannt gegeben wird.<br/>Bei der Wahl einer mehrstufigen Wertung (siehe [Anhang B](https://github.com/ultimate/F-OR1/edit/master/Reglement - Anhang B.md)) ist darüber hinaus ein entsprechender Zeit- oder Ablaufplan zu veröffentlichen.
+8. Für jede Challenge ist ein **eindeutiges, messbares Wertungskriterium** festzulegen, welches zusammen mit der Festlegung der Art der Challenge bekannt gegeben wird.<br/>Bei der Wahl einer mehrstufigen Wertung (siehe [Anhang B](Reglement - Anhang B.md)) ist darüber hinaus ein entsprechender Zeit- oder Ablaufplan zu veröffentlichen.
 9. Hinzukommende oder ausscheidende Teilnehmer müssen ihr hinzukommen bzw. ausscheiden bis spätestens 14 Tage vor der nächsten Challenge bekannt geben.
 
 ##IV. Teilnahmebestimmungen
@@ -27,7 +27,7 @@
     2. **Motor & Elektronik** – Beinhaltet den Motor, sowie sämtliche elektronischen Bauteile die für die elektrische Versorgung des Fahrzeugs oder den Betriebs des Motors erforderlich sind (ausgenommen Steuerungskompo-nenten, siehe c.), sowie Kabel und Stecker
     3. **Steuerung & Software** – Beinhaltet sämtliche Komponenten, die für die Steuerung des Fahrzeugs erforderlich sind, inkl. ggf. dazugehöriger Sen-sorik (einschließlich Fernsteuerung etc.)
 Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheidet das F-OR1-Komitee über die Zuordnung.
-3. Für alle Fahrzeuge wird die in [Anhang A](https://github.com/ultimate/F-OR1/edit/master/Reglement - Anhang A.md) beschriebene Grundkonfiguration an festgelegten Komponenten & Eigenschaften vorgeschrieben. Alle Komponenten sind im unmodifizierten Originalzustand zu verwenden. Veränderungen oder Manipulationen der Komponenten sind nur nach vorheriger Freigabe durch das Reglement zulässig.
+3. Für alle Fahrzeuge wird die in [Anhang A](Reglement - Anhang A.md) beschriebene Grundkonfiguration an festgelegten Komponenten & Eigenschaften vorgeschrieben. Alle Komponenten sind im unmodifizierten Originalzustand zu verwenden. Veränderungen oder Manipulationen der Komponenten sind nur nach vorheriger Freigabe durch das Reglement zulässig.
 4. Nach Abschluss einer Challenge, dürfen bis zum Abschluss der nächsten Challenge dürfen ausschließlich Modifikationen innerhalb **einer Kategorie** vorgenommen werden.<br/>Der Stand des Fahrzeugs wird für jede Challenge fotografisch sowie falls erforderlich anderweitig dokumentiert (z. B. Schalt-plan, Code, etc., siehe nachfolgend Fahrzeugeigenschaften)
 5. Das Wechseln und/oder Nachladen des Akkus ist innerhalb einer Wertung (siehe V) nicht gestattet. Eine Ausnahme stellen mehrstufige Challenges dar, sofern das Wechseln und/oder Nachladen im Ablauf beschrieben ist.
 
@@ -44,5 +44,5 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
     1. **Ewige-Tabelle**<br>Die **Punktzahlen aller Challenge-Wertungen** inkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
     2. **Best-of-3**<br>Die **Punktzahlen der letzten 3 Challenge-Wertungen** exkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
 3. Die Rankings werden von Julian gepflegt und hier auf github veröffentlicht:
-    1. [Ewige-Tabelle](https://github.com/ultimate/F-OR1/edit/master/Ranking-1.md)
-    2. [Best-of-3](https://github.com/ultimate/F-OR1/edit/master/Ranking-1.md)
+    1. [Ewige-Tabelle](Ranking-1.md)
+    2. [Best-of-3](Ranking-1.md)
