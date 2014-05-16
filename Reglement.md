@@ -46,3 +46,7 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
 3. Die Rankings werden von Julian gepflegt und hier auf github veröffentlicht:
     1. **[Ewige-Tabelle](Ranking-1.md)**
     2. **[Best-of-3](Ranking-1.md)**
+
+##VII. Anhänge
+* **[Anhang A](Reglement - Anhang A.md)**
+* **[Anhang B](Reglement - Anhang B.md)**
