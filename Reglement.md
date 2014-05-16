@@ -29,8 +29,18 @@
 Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheidet das F-OR1-Komitee über die Zuordnung.
 3. Für alle Fahrzeuge wird die in [Anhang A](https://github.com/ultimate/F-OR1/edit/master/Reglement - Anhang A.md) beschriebene Grundkonfiguration an festgelegten Komponenten & Eigenschaften vorgeschrieben. Alle Komponenten sind im unmodifizierten Originalzustand zu verwenden. Veränderungen oder Manipulationen der Komponenten sind nur nach vorheriger Freigabe durch das Reglement zulässig.
 4. Nach Abschluss einer Challenge, dürfen bis zum Abschluss der nächsten Challenge dürfen ausschließlich Modifikationen innerhalb **einer Kategorie** vorgenommen werden.<br/>Der Stand des Fahrzeugs wird für jede Challenge fotografisch sowie falls erforderlich anderweitig dokumentiert (z. B. Schalt-plan, Code, etc., siehe nachfolgend Fahrzeugeigenschaften)
-v.	Das Wechseln und/oder Nachladen des Akkus ist innerhalb einer Wertung (siehe V) nicht gestattet. Eine Ausnahme stellen mehrstufige Challenges dar, sofern das Wechseln und/oder Nachladen im Ablauf beschrieben ist.
+5. Das Wechseln und/oder Nachladen des Akkus ist innerhalb einer Wertung (siehe V) nicht gestattet. Eine Ausnahme stellen mehrstufige Challenges dar, sofern das Wechseln und/oder Nachladen im Ablauf beschrieben ist.
 
 ##V. Challenge-Wertung
+1. Die Wertung der Challenges erfolgt durch Punktvergabe anhand des zuvor festgelegten Wertungskriteriums in der folgenden Punktefolge und wird an die tatsächliche Teilnehmerzahl n der Challenge angepasst:
+
+Platz  |  1  |  2  |  3  | ... | n-2 | n-1 |  n
+------ | --- | --- | --- | --- | --- | --- | ---
+Punkte | n-1 | n-3 | n-4 | ... |  1  |  0  |  0  
+
+Bei Wertungsgleichheit mehrerer Teilnehmer m erhalten diese die gleiche Punktzahl entsprechend des besseren Platzes. Die nachfolgenden m-1 Plätze werden ausgesetzt.
+
+2. Über die Punktwertung hinaus werden Bonus- oder Strafpunkte wie folgt vergeben bzw. abgezogen:
+3. 
 
 
