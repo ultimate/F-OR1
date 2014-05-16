@@ -21,12 +21,12 @@
 9. Hinzukommende oder ausscheidende Teilnehmer müssen ihr hinzukommen bzw. ausscheiden bis spätestens 14 Tage vor der nächsten Challenge bekannt geben.
 
 ##IV. Teilnahmebestimmungen
-1. Teilnehmen kann jeder aus dem OR1-Team, der mit seinem Fahrzeug die nachfolgenden Bestimmungen einhält.
+1. Teilnehmen kann jeder, der mit seinem Fahrzeug die nachfolgenden Bestimmungen einhält.
 2. Für die Beschreibung der Fahrzeuge werden die **Eigenschaften nach 3 Kategorien** unterschieden:
     1. **Mechanik** - Beinhaltet die tragende Konstruktion wie z. B. Fahrgestell und Karosserie sowie Aufhängung, Räder, Antriebs- und Lenkmechnik und Verbindungselemente
     2. **Motor & Elektronik** – Beinhaltet den Motor, sowie sämtliche elektronischen Bauteile die für die elektrische Versorgung des Fahrzeugs oder den Betriebs des Motors erforderlich sind (ausgenommen Steuerungskompo-nenten, siehe c.), sowie Kabel und Stecker
     3. **Steuerung & Software** – Beinhaltet sämtliche Komponenten, die für die Steuerung des Fahrzeugs erforderlich sind, inkl. ggf. dazugehöriger Sen-sorik (einschließlich Fernsteuerung etc.)
-Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheidet das F-OR1-Komitee über die Zuordnung.
+Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheidet das *F-OR1-Komitee* über die Zuordnung.
 3. Für alle Fahrzeuge wird die in [Anhang A](Reglement - Anhang A.md) beschriebene Grundkonfiguration an festgelegten Komponenten & Eigenschaften vorgeschrieben. Alle Komponenten sind im unmodifizierten Originalzustand zu verwenden. Veränderungen oder Manipulationen der Komponenten sind nur nach vorheriger Freigabe durch das Reglement zulässig.
 4. Nach Abschluss einer Challenge, dürfen bis zum Abschluss der nächsten Challenge dürfen ausschließlich Modifikationen innerhalb **einer Kategorie** vorgenommen werden.<br/>Der Stand des Fahrzeugs wird für jede Challenge fotografisch sowie falls erforderlich anderweitig dokumentiert (z. B. Schalt-plan, Code, etc., siehe nachfolgend Fahrzeugeigenschaften)
 5. Das Wechseln und/oder Nachladen des Akkus ist innerhalb einer Wertung (siehe V) nicht gestattet. Eine Ausnahme stellen mehrstufige Challenges dar, sofern das Wechseln und/oder Nachladen im Ablauf beschrieben ist.
