@@ -32,15 +32,7 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
 5. Das Wechseln und/oder Nachladen des Akkus ist innerhalb einer Wertung (siehe V) nicht gestattet. Eine Ausnahme stellen mehrstufige Challenges dar, sofern das Wechseln und/oder Nachladen im Ablauf beschrieben ist.
 
 ##V. Challenge-Wertung
-1. Die Wertung der Challenges erfolgt durch Punktvergabe anhand des zuvor festgelegten Wertungskriteriums in der folgenden Punktefolge und wird an die tatsächliche Teilnehmerzahl n der Challenge angepasst:
-
-Platz  |  1  |  2  |  3  | ... | n-2 | n-1 |  n
------- | --- | --- | --- | --- | --- | --- | ---
-Punkte | n-1 | n-3 | n-4 | ... |  1  |  0  |  0  
-
-Bei Wertungsgleichheit mehrerer Teilnehmer m erhalten diese die gleiche Punktzahl entsprechend des besseren Platzes. Die nachfolgenden m-1 Plätze werden ausgesetzt.
-
-2. Über die Punktwertung hinaus werden Bonus- oder Strafpunkte wie folgt vergeben bzw. abgezogen:
+1. Die Wertung der Challenges erfolgt durch Punktvergabe anhand des zuvor festgelegten Wertungskriteriums in der folgenden Punktefolge und wird an die tatsächliche Teilnehmerzahl n der Challenge angepasst:<br><table><tbody><tr><th>Platz</th><th>1</th><th>2</th><th>3</th><th>...</th><th>n-2</th><th>n-1</th><th>n</th></tr><tr><td>Punkte</td><td>n-1</td><td>n-3</td><td>n-4</td><td>...</td><td>1</td><td>0</td><td>0</td></tr></table><br>Bei Wertungsgleichheit mehrerer Teilnehmer m erhalten diese die gleiche Punktzahl entsprechend des besseren Platzes. Die nachfolgenden m-1 Plätze werden ausgesetzt.
+2. Über die Punktwertung hinaus werden Bonus- oder Strafpunkte wie folgt vergeben bzw. abgezogen:<br><table><tbody><tr><th>Kriterium</th><th>Punkte</th></tr><tr><td>Nicht-Teilnahme an der Challenge</td><td>-2</td></tr><tr><td>Keine Modifikation des Fahrzeugs seit der letzten Challenge</td><td>+2</td></tr><tr><td>Design-Bonus</td><td>+1</td></tr></table>
 3. 
-
 
