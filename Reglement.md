@@ -44,5 +44,5 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
     1. **Ewige-Tabelle**<br>Die **Punktzahlen aller Challenge-Wertungen** inkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
     2. **Best-of-3**<br>Die **Punktzahlen der letzten 3 Challenge-Wertungen** exkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
 3. Die Rankings werden von Julian gepflegt und hier auf github veröffentlicht:
-    1. [Ewige-Tabelle](Ranking-1.md)
-    2. [Best-of-3](Ranking-1.md)
+    1. **[Ewige-Tabelle](Ranking-1.md)**
+    2. **[Best-of-3](Ranking-1.md)**
