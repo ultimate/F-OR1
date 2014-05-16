@@ -4,5 +4,11 @@ Bei der *Formula-OR1* (kurz: *F-OR1*) geht es darum das eigene Können in Bezug 
 
 ## Die wichtigsten Infos
 
-* **[Reglement](https://github.com/ultimate/F-OR1/blob/master/Reglement.md)**
-* **[Wertung](https://github.com/ultimate/F-OR1/blob/master/Wertung.md)**
+* **[Reglement](Reglement.md)**
+  * **[Anhang A](Reglement - Anhang A.md)**
+  * **[Anhang B](Reglement - Anhang B.md)**
+* **Gesamt-Wertung**
+  * **[Ewige Tabelle](Ranking-1.md)**
+  * **[Best-of-3](Ranking-2.md)**
+* **Challenge-Wertungen**
+  * **[2014-03-21](Challenges/2014-03-21.md)**
