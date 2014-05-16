@@ -1,6 +1,6 @@
 #Ewige Tabelle
 
-Die nachfolgende Tabelle zeigt die ewige Tabelle und die Endergebnisse der letzten Challenges. Die Zahlen in klammern stellen die erhaltenen Boni dar. Diese werden beim Gesamtranking mit berücksichtigt, jedoch ohne extra die Gesamtsumme darzustellen.
+Die nachfolgende Tabelle zeigt die ewige Tabelle und die Endergebnisse der letzten Challenges (von neu nach alt). Die Zahlen in klammern stellen die erhaltenen Boni dar. Diese werden beim Gesamtranking mit berücksichtigt, jedoch ohne extra die Gesamtsumme darzustellen.
 
 Rang | Teilnehmer | Punktzahl | [2014-07-18](Challenges/2014-07-18) | [2014-03-12](Challenges/2014-03-12) |
 ---- | ---------- | --------- | ------- | ------- |
