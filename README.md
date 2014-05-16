@@ -4,5 +4,5 @@ Bei der Formula-OR1 (kurz: F-OR1) geht es darum das eigene Können in Bezug auf 
 
 ### Die wichtigsten Infos
 
-* **[Reglement](http://github.com/ultimate/F-OR1/Reglement.md)**
-* **[Wertung](http://github.com/ultimate/F-OR1/Wertung.md)**
+* **[Reglement](http://github.com/ultimate/F-OR1/blob/master/Reglement.md)**
+* **[Wertung](http://github.com/ultimate/F-OR1/blob/master/Wertung.md)**
