@@ -33,6 +33,16 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
 
 ##V. Challenge-Wertung
 1. Die Wertung der Challenges erfolgt durch Punktvergabe anhand des zuvor festgelegten Wertungskriteriums in der folgenden Punktefolge und wird an die tatsächliche Teilnehmerzahl n der Challenge angepasst:<br><table><tbody><tr><th>Platz</th><th>1</th><th>2</th><th>3</th><th>...</th><th>n-2</th><th>n-1</th><th>n</th></tr><tr><td>Punkte</td><td>n-1</td><td>n-3</td><td>n-4</td><td>...</td><td>1</td><td>0</td><td>0</td></tr></table><br>Bei Wertungsgleichheit mehrerer Teilnehmer m erhalten diese die gleiche Punktzahl entsprechend des besseren Platzes. Die nachfolgenden m-1 Plätze werden ausgesetzt.
-2. Über die Punktwertung hinaus werden Bonus- oder Strafpunkte wie folgt vergeben bzw. abgezogen:<br><table><tbody><tr><th>Kriterium</th><th>Punkte</th></tr><tr><td>Nicht-Teilnahme an der Challenge</td><td>-2</td></tr><tr><td>Keine Modifikation des Fahrzeugs seit der letzten Challenge</td><td>+2</td></tr><tr><td>Design-Bonus</td><td>+1</td></tr></table>
-3. 
+2. Über die Punktwertung hinaus werden Bonus- oder Strafpunkte wie folgt vergeben bzw. abgezogen:<br><table><tbody><tr><th>Kriterium</th><th>Punkte</th></tr><tr><td>Nicht-Teilnahme an der Challenge</td><td>- 2</td></tr><tr><td>Keine Modifikation des Fahrzeugs seit der letzten Challenge</td><td>+ 2</td></tr><tr><td>Design-Bonus</td><td>+ 1</td></tr></table><br>Anmerkungen:
+    1. Die Nicht-Teilnahme an der Challenge bedeutet den Ausschluss bei der Vergabe der Bonus-Punkte.
+    2. Sofern die Art der Challenge eine Urlaubs oder Krankheitsregelung nach II/4 nicht zulässt, werden keine Strafpunkte für die Nicht-Teilnahme abgezogen.
+    3. Der Design-Bonus wird durch demokratische Wahl der Teilnehmer vergeben und belohnt das optisch ansprechendste Fahrzeug. Er wird bei jeder Challenge neu vergeben.
 
+##VI. Gesamt-Wertung
+1. Die Ergebnisse der Team-Events bzw. Rennwochen in Form der Challenge-Wertung fließen in die Gesamtwertung ein.
+2. Die Gesamtwertung ist untergliedert in mehrere Rankings:
+    1. **Ewige-Tabelle**<br>Die **Punktzahlen aller Challenge-Wertungen** inkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
+    2. **Best-of-3**<br>Die **Punktzahlen der letzten 3 Challenge-Wertungen** exkl. Bonus-/Strafpunkte werden je Teilnehmer addiert.
+3. Die Rankings werden von Julian gepflegt und hier auf github veröffentlicht:
+    1. [Ewige-Tabelle](https://github.com/ultimate/F-OR1/edit/master/Ranking-1.md)
+    2. [Best-of-3](https://github.com/ultimate/F-OR1/edit/master/Ranking-1.md)
