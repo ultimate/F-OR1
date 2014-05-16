@@ -48,5 +48,5 @@ Bei nicht eindeutiger Zuordbarkeit der Komponenten zu einer Kategorie entscheide
     2. **[Best-of-3](Ranking-1.md)**
 
 ##VII. Anhänge
-* **[Anhang A](Reglement - Anhang A.md)**
-* **[Anhang B](Reglement - Anhang B.md)**
+* **[Anhang A](Reglement - Anhang A.md)** (Technische Vorgaben)
+* **[Anhang B](Reglement - Anhang B.md)** (Challenge-Vorschläge)
