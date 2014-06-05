@@ -7,6 +7,7 @@ Referenz: [Zum Hauptdokument](Reglement.md)
 ##I. Allgemeines
 1. Der maximale Gesamtpreis für Zukaufteile darf die Summe von 50 € pro Teilnehmer nicht überschreiten.
 2. Die Fertigung von Teilen per 3D-Druck ist so weit wie möglich auf FDM-3D-Drucker zu beschränken. Die Verwendung des „Objet 30 pro“ 3D-Druckers ist nur für Kleinteile zulässig (z. B. Zahnräder)
+3. Fast alle vorgegebenen Grundkomponenten wurden im CAD nachmodelliert und stehen unter [Komponenten](Komponenten) als SolidWorks-Teil/Baugruppe oder STEP zur Verfügung.
 
 ##II. Mechanik
 1. Allgemeines
