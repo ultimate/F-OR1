@@ -15,6 +15,7 @@ Referenz: [Zum Hauptdokument](Reglement.md)
   2. Das Fahrzeug muss bei geschlossenem Deckel vollständig, gewaltfrei und in genau dem Zustand in die Box passen, in dem es an der Challenge teilnimmt.
 2. Freigaben:
   1. Keine Material- oder Fertigungsbeschränkungen (ausgenommen 3D-Druck, siehe oben)
+  2. Äußere Modifikation bestimmter Elektronik-Komponenten (s.u.)
 3. Verbote:
   1. Keine weiteren Beschränkungen
 
@@ -30,9 +31,12 @@ Referenz: [Zum Hauptdokument](Reglement.md)
 </table>
 2. Freigaben:
   1. Beliebige Wahl von Kabeln und Steckern
+  2. Äußere Modifikation des Servos (Gehäuse), ohne elektronische Veränderungen
+  3. Äußere Modifikation der Fernbedienung (Gehäuse), ohne elektronische Veränderungen
+  4. Austausch der AA-Batterien durch einen Lipo-Akku inkl. der dafür erforderlichen Anpassung des Gehäuses und der Anschlusskabel.
 3. Verbote:
   1. Sämtliche zusätzliche elektronische Komponenten
-  2. Modifikationen der vorgeschriebenen Komponenten
+  2. Sämtliche sonstige Modifikationen der vorgeschriebenen Komponenten (z.B. elektronisch/funktional), die über die oben genannten Freigaben hinausgehen.
   3. Weitere Energiequellen (z. B. Solarzellen, Kondensatoren, Energierückgewinnung, etc.)
 
 ##IV. Steuerung & Software
