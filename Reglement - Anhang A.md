@@ -31,8 +31,8 @@ Referenz: [Zum Hauptdokument](Reglement.md)
 </table>
 2. Freigaben:
   1. Beliebige Wahl von Kabeln und Steckern
-  2. Äußere Modifikation des Servos (Gehäuse), ohne elektronische Veränderungen oder Veränderung des Bewegungsbereichs
-  3. Äußere Modifikation der Fernbedienung (Gehäuse), ohne elektronische Veränderungen
+  2. Äußere Modifikation des Servos (Gehäuse), ohne Veränderungen der Funktionalität oder des Bewegungsbereichs
+  3. Äußere Modifikation der Fernbedienung (Gehäuse), ohne Veränderungen der Funktionalität
   4. Austausch der AA-Batterien durch einen Lipo-Akku inkl. der dafür erforderlichen Anpassung des Gehäuses und der Anschlusskabel.
 3. Verbote:
   1. Sämtliche zusätzliche elektronische Komponenten
