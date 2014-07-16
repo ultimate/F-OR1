@@ -34,6 +34,7 @@ Referenz: [Zum Hauptdokument](Reglement.md)
   2. Äußere Modifikation des Servos (Gehäuse), ohne Veränderungen der Funktionalität oder des Bewegungsbereichs
   3. Äußere Modifikation der Fernbedienung (Gehäuse), ohne Veränderungen der Funktionalität
   4. Austausch der AA-Batterien durch einen Lipo-Akku inkl. der dafür erforderlichen Anpassung des Gehäuses und der Anschlusskabel.
+  5. Der Lüfter des Motorreglers darf entfernt und/oder für andere Zwecke verwendet werden (z.B. zum Kühlen des Motors). Bei Bedarf darf dafür auch das Kabel verlängert werden.
 3. Verbote:
   1. Sämtliche zusätzliche elektronische Komponenten
   2. Sämtliche sonstige Modifikationen der vorgeschriebenen Komponenten (z.B. elektronisch/funktional), die über die oben genannten Freigaben hinausgehen.
