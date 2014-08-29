@@ -9,7 +9,7 @@ Rang | Teilnehmer | Punktzahl | [2014-09-26](Challenges/2014-09-26.md) | [2014-0
 3    | Martin     | 1         |                                        | 1                                      | -                                      |
 4    | Jonas      | 0         |                                        | 0                                      | -                                      |
      | Julian     | 0         |                                        | 0                                      | 0                                      |
--    | Pascal     | -         |                                        |                                        | -                                      |
--    | Maddin     | -         |                                        |                                        | -                                      |
--    | Thoka      | -         |                                        |                                        | -                                      |
--    | Leon       | -         |                                        |                                        | -                                      |
+-    | Pascal     | -         |                                        | -                                      | -                                      |
+-    | Maddin     | -         |                                        | -                                      | -                                      |
+-    | Thoka      | -         |                                        | -                                      | -                                      |
+-    | Leon       | -         |                                        | -                                      | -                                      |
