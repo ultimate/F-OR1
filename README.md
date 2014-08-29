@@ -11,5 +11,6 @@ Bei der *Formula-OR1* (kurz: *F-OR1*) geht es darum das eigene Können in Bezug 
   * **[Ewige Tabelle](Ranking-1.md)**
   * **[Best-of-3](Ranking-2.md)**
 * **Challenges**
+  * **[2014-09-26](Challenges/2014-09-26.md)**
   * **[2014-07-18](Challenges/2014-07-18.md)**
   * **[2014-03-21](Challenges/2014-03-21.md)**
