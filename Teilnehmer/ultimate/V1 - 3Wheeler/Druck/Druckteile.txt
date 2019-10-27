@@ -1,0 +1,17 @@
+		Teil							Drucker			Anzahl		Status
+
+		Rad-Hinten-Aufnahme.STL			Objet			2			FERTIG
+		Rad-Vorne-Aufnahme.STL			Objet			4			FERTIG
+		Rad-Vorne-Innenkranz.STL		Objet			2			FERTIG
+		Rahmen-Hinten.STL				3D-Touch		2			FERTIG
+		Rahmen-Vorne.STL				3D-Touch		2			FERTIG
+		
+		Lenk-Aufsatz.STL				Objet			1
+		Lenkstange-Mittelstück.STL		Objet			1
+		Rad-Hinten-Korpus.STL			3D-Touch		1
+		Rad-Hinten-Zahnkranz.STL		Objet			2
+		Zahnrad 0.5M 19T.STL			Objet			1
+		Zahnrad 0.5M 40T.STL			Objet			1
+				
+		Rad-Vorne-Korpus A2.STL			3D-Touch		2			erstmal 1
+		Rad-Vorne-Korpus I2.STL			3D-Touch		2			warten
